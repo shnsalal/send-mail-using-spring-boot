@@ -1,9 +1,10 @@
 # send-email-using-spring-boot
 +Dependency
-+   <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-mail</artifactId>
-		</dependency>
+
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-mail</artifactId>
+</dependency>
 
 + if you are getting authentication error, follow below steps:
 
