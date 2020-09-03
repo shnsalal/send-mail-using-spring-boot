@@ -1,5 +1,6 @@
 # send-email-using-spring-boot
-+Dependency
+
++ Dependency
 
 <dependency>
 	<groupId>org.springframework.boot</groupId>
